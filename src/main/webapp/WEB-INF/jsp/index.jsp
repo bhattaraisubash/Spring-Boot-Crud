@@ -5,8 +5,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<h1>Hello Subash</h1>
+	<h1 class="test">Hello Subash</h1>
 </body>
 </html>
